@@ -12,9 +12,6 @@
 					<span class="footer-title">Contact</span><br>
 					<hr class="footer-hr">
 					<b>{{ site.data.settings.client.name }}</b><br />
-					{{ site.data.settings.client.address }}<br />
-					{{ site.data.settings.client.phone_type }}: <a href="tel:1-{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
-					{{ site.data.settings.client.phone2_type }}: <a href="tel:1-{{ site.data.settings.client.phone2 }}">{{ site.data.settings.client.phone2 }}</a><br />
 					<a href="tel:1-{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
 					<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
 					<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
@@ -24,9 +21,8 @@
 				<div class="col-sm-4">
 					<span class="footer-title">About</span><br>
 					<hr class="footer-hr">
-					<img src="/img/footerlogo.png" width="10%">
+					<img src="/img/footerlogo.png" width="20%">
 					{{ site.data.settings.client.license_number }}</br>
-					{{site.data.settings.client.brokerage}}<br>
 					&copy;{{ site.time | date: '%Y' }}  {{site.data.settings.client.brand}}<br>
 					Proudly Brought To You By
 			    <a href="http://getvyral.com" target="_blank">
