@@ -1,6 +1,6 @@
 title: Twin Cities Real Estate Video Blog with Nicole Junker
 description: Our mission at -- client brand -- is to be your best resource for -- market -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- client brand --, your professional -- market -- Real Estate Agents.
-show_custom_links: show
+show_custom_links: true
 custom_links:
   - title: Schedule a Meeting with Nicole
     url: https://calendly.com/nicolejunker/60min
