@@ -5,7 +5,7 @@ excerpt: >-
   educational information having to do with our market.
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
