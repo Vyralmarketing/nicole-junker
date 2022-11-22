@@ -19,7 +19,7 @@ youtube_code: KSahdbcFyBo
 
 {% include excerpt.html %}
 
-What happens during a home inspection? Today I’m at a home inspection for a property that I recently sold to one of my buyers. Joining me is Nick from Homeside Inspections to share his expert insights about the topic.
+What happens during a home inspection? Today I’m at a home inspection for a property that I recently sold to one of my buyers. Joining me is Nick from Homesight Inspections to share his expert insights about the topic.
 
 According to Nick, **one of the most commonly found issues in home inspections is grading issues on the outside**. Whether it's a new construction or a 150-year-old house, soil settles over time. This is typically a minor issue that will likely become a fun project people get to enjoy working on in the warm weather.
 
