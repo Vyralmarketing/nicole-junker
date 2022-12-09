@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays From Us
+title: Happy Holidays
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
@@ -19,10 +19,10 @@ youtube_code: Sh-DdpCJZ5I
 
 Happy holidays to you\!
 
-The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
+The holiday season has officially arrived. I hope you enjoy this wonderful time of year and make some fantastic memories.
 
-**We wanted to take a moment to thank you for your continued support.** We love helping people make their real estate dreams come true, so thank you for working with us and supporting our business.
+**I wanted to take a moment to thank you for your continued support.** I love helping people make their real estate dreams come true, so thank you for working with me and supporting my business.
 
-This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or reply to this email; we’d love to help you.&nbsp;
+This may be a busy time of year, but I am always here to help you and answer any questions you may have. Give me a call or reply to this email; I’d love to help you.&nbsp;
 
-In case we don’t hear from you until 2023, have a happy New Year\!
+In case I don’t hear from you until 2023, have a happy New Year\!
