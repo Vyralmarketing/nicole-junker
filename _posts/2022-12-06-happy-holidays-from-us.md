@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wish You a Happy Holiday Season
+title: Wishing You a Happy Holiday Season
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
