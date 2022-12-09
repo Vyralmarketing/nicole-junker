@@ -4,7 +4,7 @@ title: Wishing You a Happy Holiday Season
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
-excerpt: From my team to your family, I want to wish you a happy holiday season.
+excerpt: I want to wish you and your family a happy holiday season.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
