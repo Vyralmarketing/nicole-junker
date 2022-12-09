@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Happy Holidays
+title: Wish You a Happy Holiday Season
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
-excerpt: From our team to your family, we want to wish you a happy holiday season.
+excerpt: From my team to your family, I want to wish you a happy holiday season.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
