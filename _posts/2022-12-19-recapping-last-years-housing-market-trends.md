@@ -10,8 +10,8 @@ pullquote: Experts are anticipating that we will have a healthy spring market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-19-22-nicole-yt.jpg
-youtube_code: IaFglMydkzY
+youtube_alternate_image: /uploads/1-3-23-nicole-yt.jpg
+youtube_code: 9I7fmI5Wg0U
 ---
 {% include youtube.html %}
 
