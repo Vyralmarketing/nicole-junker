@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fun Night Out at Brookview Golden Valley
-date: 2023-02-13 00:00:00
+date: 2023-02-14 00:00:00
 tags:
   - Real Estate
 excerpt: A great recommendation for a fun night out in Golden Valley.
