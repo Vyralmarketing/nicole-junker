@@ -12,8 +12,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-27-23-nicole-yt.jpg
-youtube_code: reHvLEYxQg4
+youtube_alternate_image: /uploads/3-6-23-junker-yt.jpg
+youtube_code: jnLZkEbgDEY
 ---
 {% include youtube.html %}
 
