@@ -20,11 +20,11 @@ youtube_code: BOnH5owrGmk
 
 The Home and Garden Show, sponsored by the Chamber of Commerce, is coming soon! On April 1, the event will open its doors at Eastview High School, and we are thrilled to be exhibiting for the first time.
 
-At our booth, we have a lot of exciting things in store for you and your family. Not only will we be showcasing our expertise in home updating and real estate, but **we will also be raffling off two Minnesota Wild suite tickets**! Plus, there will be a bounce house and food vendors to keep the whole family entertained.
+At our booth, we have a lot of exciting things in store for you and your family. Not only will we be showcasing our expertise in home updating and real estate, but **we will also be raffling off two Minnesota Wild suite tickets!** Plus, there will be a bounce house and food vendors to keep the whole family entertained.
 
 {% include pullquote.html %}
 
-If you are considering any home updating, we invite you to come and speak with us. We will be more than happy to assist you in making your dream home a reality. If you are interested in selling or making a move, we have the experience and knowledge to guide you through the process with ease.
+If you are considering any home updates, we invite you to come and speak with us. We will be more than happy to assist you in making your dream home a reality. If you are interested in selling or making a move, we have the experience and knowledge to guide you through the process with ease.
 
 We understand that the decision to update your home or sell it can be daunting, but we are here to help make the process as smooth as possible. Our team is knowledgeable and passionate about real estate, and we are dedicated to helping you make informed decisions.
 
