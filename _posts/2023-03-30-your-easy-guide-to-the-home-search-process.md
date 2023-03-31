@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Easy Guide to the Home Search Process
+title: Your Simple Guide to the Home Search Process
 date: 2023-03-30 00:00:00
 tags:
   - Home Buyer Tips
