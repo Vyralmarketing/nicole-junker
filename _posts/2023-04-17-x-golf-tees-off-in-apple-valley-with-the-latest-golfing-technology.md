@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/4-14-23-nicole-yt.jpg
 youtube_code:
 ---
 {% include youtube.html %}
