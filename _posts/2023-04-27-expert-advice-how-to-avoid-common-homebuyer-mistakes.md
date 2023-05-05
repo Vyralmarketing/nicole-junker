@@ -10,7 +10,7 @@ pullquote: It's essential to avoid common mistakes that can lead to regret down 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-26-23-nicole-yt.jpg
+youtube_alternate_image: /uploads/5-5-23-nicole-yt.jpg
 youtube_code: vjrxMLThqkM
 ---
 {% include youtube.html %}
