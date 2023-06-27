@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s what you need to know about options after becoming an empty nester.
 enclosure:
-pullquote: You have tons of options.
+pullquote: Empty nesters have tons of options.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -31,4 +31,4 @@ Have you spent 20, 30, or even 40 years in your family home and now find yoursel
 
 **5\. Warmer climates.** Escaping the cold winters of their current location, some empty nesters choose to move to warmer climates for a more pleasant year-round climate.
 
-Ultimately, the decision of where to move depends on individual preferences and priorities. Some prioritize a specific lifestyle or proximity to family, while others consider factors such as cost or climate. I hope this information proves helpful as you navigate the next stage of your housing choices. If you require any assistance, please don't hesitate to call or email me. I look forward to hearing from you!
+Ultimately, the decision of where to move depends on individual preferences and priorities. Some prioritize a specific lifestyle or proximity to family, while others consider factors such as cost or climate. If you require any assistance, please don't hesitate to call or email me. I look forward to hearing from you!
