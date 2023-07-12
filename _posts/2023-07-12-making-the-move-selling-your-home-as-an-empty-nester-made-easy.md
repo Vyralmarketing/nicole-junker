@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Making the Move: Selling Your Home as an Empty Nester Made Easy'
-date:
+date: 2023-07-12 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Discover valuable tips for selling your home as an empty nester.
