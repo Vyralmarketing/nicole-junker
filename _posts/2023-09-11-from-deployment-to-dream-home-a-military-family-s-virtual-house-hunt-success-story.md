@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-8-23-junker-yt.jpg
-youtube_code: KUYeRwK0Bpk
+youtube_code: aF_Zd4texK4
 ---
 {% include youtube.html %}
 
